@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abiking2112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Discord Abking #1227
 
 <!---
